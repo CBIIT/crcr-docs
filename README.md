@@ -11,9 +11,20 @@ https://github.com/CBIIT/CRCR/
 https://github.com/CBIIT/CRCR/releases/tag/v1.0.0
 
 ## CRCR Project DEV/Stage/Prod
+
 - **Prod:** [https://computational.cancer.gov/](https://computational.cancer.gov/)
-- **DEV:** [https://nciws-d2374-c.nci.nih.gov/](https://nciws-d2374-c.nci.nih.gov/)
-- **QA:** [https://nciws-q2487-c.nci.nih.gov/](https://nciws-q2487-c.nci.nih.gov/)
-- **Stage:** [https://ncias-s3167-c.nci.nih.gov/](https://ncias-s3167-c.nci.nih.gov/)
+
+- **DEV:**
+  - [https://nciws-d2374-c.nci.nih.gov/](https://nciws-d2374-c.nci.nih.gov/)
+  - [https://computational-dev.cancer.gov/](https://computational-dev.cancer.gov/)
+
+- **QA:**
+  - [https://nciws-q2487-c.nci.nih.gov/](https://nciws-q2487-c.nci.nih.gov/)
+  - [https://computational-qa.cancer.gov/](https://computational-qa.cancer.gov/)
+
+- **Stage:**
+  - [https://ncias-s3167-c.nci.nih.gov/](https://ncias-s3167-c.nci.nih.gov/)
+  - [https://computational-stage.cancer.gov/](https://computational-stage.cancer.gov/)
+
 
 JIRA - https://tracker.nci.nih.gov/projects/CRCR/issues
