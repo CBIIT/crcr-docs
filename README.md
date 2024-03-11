@@ -1,6 +1,4 @@
-===========================
 CRCR Project Documentation
-===========================
 
 Welcome! This is the documentation site for the _Computational Resources for Cancer Research - CRCR_  Project.
 
