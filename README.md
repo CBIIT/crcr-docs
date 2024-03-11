@@ -4,43 +4,16 @@ Welcome! This is the documentation site for the *Computational Resources for Can
 
 The *Computational Resources for Cancer Research - CRCR* is a Drupal-based information system for NCI and DOE that facilitates the uploading and sharing of cancer research data. It is developed by Leidos Biomedical Research, Inc., operating the Frederick National Laboratory for Cancer Research, in partnership with the National Institutes of Health (NIH), National Cancer Institute (NCI), Center for Biomedical Informatics & Information Technology (CBIIT). This project utilizes open-source software created under the GNU General Public License (1991).
 
+## GitHub repo for CRCR Project
+https://github.com/CBIIT/CRCR/
 
-## Release Notes - v1.0.0
+## CRCR CODE BASE - v1.0.0
+https://github.com/CBIIT/CRCR/releases/tag/v1.0.0
 
-### Catalog Pages
-- Implemented the following **Catalog Pages** with the ability to Search, Sort, and Filter:
-   1. Model Catalog
-   2. Software Catalog
-   3. Dataset Catalog
-   4. Publication Catalog
-   5. Event Catalog
-   6. Education Catalog
+## CRCR Project DEV/Stage/Prod - v1.0.0
+Prod - https://computational.cancer.gov/
+DEV - https://nciws-d2374-c.nci.nih.gov/
+QA - https://nciws-q2487-c.nci.nih.gov/
+Stage - https://ncias-s3167-c.nci.nih.gov/
 
-### Project Pages
-- Implemented the following **Project Pages**:
-   1. ADMIRAL
-   2. ATOM
-   3. CANDLE
-   4. Cellular Level Pilot
-   5. IMPROVE
-   6. MOSSAIC
-
-### Connect & Learn Pages
-- Implemented the following **Connect & Learn** pages:
-   1. Connect & Learn
-   2. Emerging Areas
-   3. Collaborations
-
-### Additional Pages/Features
-- Implemented the following pages/features:
-   1. About Us
-   2. Contact Us
-   3. Sign up for the email updates feature in the footer.
-   4. Scroll to top feature across the site
-   5. User Registration Form - Admin only
-
-### Mobile Responsiveness
-- Mobile Responsiveness for the following:
-   1. Header
-   2. Footer
-   3. Home Page
+JIRA - https://tracker.nci.nih.gov/projects/CRCR/issues
