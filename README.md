@@ -10,10 +10,10 @@ https://github.com/CBIIT/CRCR/
 ## CRCR CODE BASE - v1.0.0
 https://github.com/CBIIT/CRCR/releases/tag/v1.0.0
 
-## CRCR Project DEV/Stage/Prod - v1.0.0
-Prod - https://computational.cancer.gov/
-DEV - https://nciws-d2374-c.nci.nih.gov/
-QA - https://nciws-q2487-c.nci.nih.gov/
-Stage - https://ncias-s3167-c.nci.nih.gov/
+## CRCR Project DEV/Stage/Prod
+- **Prod:** [https://computational.cancer.gov/](https://computational.cancer.gov/)
+- **DEV:** [https://nciws-d2374-c.nci.nih.gov/](https://nciws-d2374-c.nci.nih.gov/)
+- **QA:** [https://nciws-q2487-c.nci.nih.gov/](https://nciws-q2487-c.nci.nih.gov/)
+- **Stage:** [https://ncias-s3167-c.nci.nih.gov/](https://ncias-s3167-c.nci.nih.gov/)
 
 JIRA - https://tracker.nci.nih.gov/projects/CRCR/issues
